@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryApp.Data
 {
-    internal class LoanRepository
+    internal class LoansRepository
     {
     }
 }
